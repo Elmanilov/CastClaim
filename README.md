@@ -70,3 +70,4 @@ networks: {
 После деплоя:
 npx hardhat verify --network sepolia <адрес_контракта>
 Изменения внесены с целью проверки подсчёта коммита
+tested for base guild task
